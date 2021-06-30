@@ -2,7 +2,7 @@ Julian's Database Checkpoint
 
 [CHALLENGE1](./ScreenShots/Challenge1.PNG)
 
-[CHALLENGE2](./ScreenShots/Challenge1.PNG)
+[CHALLENGE2](./ScreenShots/Challenge2.PNG)
 
 [CHALLENGE3](./ScreenShots/Challenge1.PNG)
 
