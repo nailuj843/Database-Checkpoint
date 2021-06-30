@@ -1,6 +1,6 @@
 Julian's Database Checkpoint
 
-![CHALLENGE1](./ScreenShots/Challenge 1.png)
+[CHALLENGE1](./ScreenShots)
 
 [test](www.google.com)
 
